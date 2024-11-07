@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+its and NAND and XOr test 
 ## How to test
+digital inputs show on the 7 segmnent
 
-Explain how to use your project
 
 ## External hardware
 
